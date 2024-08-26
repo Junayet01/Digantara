@@ -14,7 +14,7 @@ This project calculates satellite positions using TLE data and filters them base
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/Junayet01/Main.git
+git clone https://github.com/Junayet01/Digantara.git
 
 ```
 2. Create a virtual environment and activate it:
